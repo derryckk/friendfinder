@@ -1,0 +1,165 @@
+
+var friends = [
+  {
+      "name":"Nicole",
+      "photo":"https://scontent.ftpa1-2.fna.fbcdn.net/v/t1.0-9/13393894_10156882486750411_6361104136977533817_n.jpg?oh=8c480b64feef3c08048c465409c38728&oe=5A792CBF",
+      "scores":[
+         5,
+         1,
+         4,
+         4,
+         5,
+         1,
+         2,
+         5,
+         4,
+         1
+          ]
+      },
+  {
+  "name":"Jacki",
+  "photo":"https://scontent.ftpa1-2.fna.fbcdn.net/v/t1.0-9/1380585_678565888842870_1649604293_n.jpg?oh=ae443799a98bac2e1814a46cd1b64e17&oe=5A6AF49C",
+  "scores":[
+     5,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+      ]
+},
+{
+  "name":"Brandi",
+  "photo":"https://scontent.ftpa1-2.fna.fbcdn.net/v/t1.0-9/12079657_405656139631766_1831195841972735182_n.jpg?oh=47246261783bf302a29fdb0d23bd8f49&oe=5A6D0E60",
+  "scores":[
+     9,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+      ]
+},
+{
+  "name":"Chelsea",
+  "photo":"https://scontent.ftpa1-2.fna.fbcdn.net/v/t1.0-9/14344704_10154636416193086_4222471788919666020_n.jpg?oh=68335a099d0a31d929c337d0e4e18a3c&oe=5A72DA53",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Skylar",
+  "photo":"https://scontent.ftpa1-2.fna.fbcdn.net/v/t1.0-9/1044849_10152043332443159_1784337744_n.jpg?oh=70d798559c8401f685b2021208e3f3ea&oe=5A6C0A74",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Lisa",
+  "photo":"https://scontent.ftpa1-2.fna.fbcdn.net/v/t1.0-9/13627154_10210583522730244_609463576186566280_n.jpg?oh=da42ec7ce2554962ccdc475e307a3c3a&oe=5A7B6EEA",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Kate",
+  "photo":"https://scontent.ftpa1-2.fna.fbcdn.net/v/t1.0-9/22195917_1135091919954724_2575276962981151885_n.jpg?oh=7c4ab40e609435a8d73c01b934582c22&oe=5A6E4503",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Leah",
+  "photo":"https://scontent.ftpa1-2.fna.fbcdn.net/v/t1.0-9/1425564_790028594347773_1527948047_n.jpg?oh=a264b6a3ee82d4ebd93545750cebe54d&oe=5A801A9A",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Ivana",
+  "photo":"https://scontent.ftpa1-2.fna.fbcdn.net/v/t1.0-9/14732166_10154134368822737_3410689691475719861_n.jpg?oh=e271690359845d6214ad510ac0bd4344&oe=5A834EAF",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Vivian",
+  "photo":"https://scontent.ftpa1-2.fna.fbcdn.net/v/t1.0-9/17457880_1424204914265948_8117657068178219348_n.jpg?oh=60ca0da447afc18ba3bcc24ff0cc0675&oe=5A79261F",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+}
+]
+
+module.exports = friends;
